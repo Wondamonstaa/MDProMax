@@ -7,7 +7,7 @@
 MDProMax: Project Description
 ---
 
-MDProMax, led by Kiryl Baravikou during the CS 411 course in the Fall of 2023, is a project aimed at mastering Markov Decision Processes (MDPs). This project is dedicated to implementing the Value Iteration algorithm, a fundamental technique for deriving optimal policies in MDP scenarios. By leveraging Python, MDProMax provides a user-friendly platform for defining MDPs, specifying states, actions, transition models, rewards, and discount factors, and ultimately computing optimal decision-making policies.
+MDProMax, led by Kiryl Baravikou during the CS 411 course in the Fall of 2023, is a project aimed at mastering Markov Decision Processes (MDPs). This project is dedicated to implementing the Value Iteration algorithm, a fundamental technique for deriving optimal policies in MDP scenarios. By leveraging Python, MDProMax provides a user-friendly platform for defining MDPs, specifying states, actions, transition models, rewards, and discount factors, and ultimately computing optimal decision-making policies. Fully written in Python.
 
 MDProMax distinguishes itself by seamlessly integrating advanced memoization techniques into its algorithm. The project introduces the MemoMix mixin object, which plays a pivotal role in optimizing computational efficiency. This results in faster and more streamlined computations, setting MDProMax apart as an efficient and effective MDP solver.
 
